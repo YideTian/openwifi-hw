@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Jan 11 15:21:52 2022
+# Process ID: 73440
+# Current directory: E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent76700 E:\SynologyDrive\AD9361\project\openwifi-hw\openwifi-hw\ip\openofdm_tx\openofdm_tx\openofdm_tx.xpr
+# Log file: E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx/vivado.log
+# Journal file: E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx/openofdm_tx.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx'
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'E:/SynologyDrive/AD9361/project/openwifi-hw/openwifi-hw/ip/openofdm_tx/openofdm_tx/openofdm_tx.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/ProgramFiles/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:26 ; elapsed = 00:00:12 . Memory (MB): peak = 1116.375 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jan 11 16:02:35 2022...

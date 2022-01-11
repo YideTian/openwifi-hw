@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3.1 (64-bit)
+# SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+# IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+# Start of session at: Tue Jan 11 18:26:35 2022
+# Process ID: 14330
+# Current directory: /media/cool/Ted/openwifi-hw/openwifi-hw
+# Command line: vivado
+# Log file: /media/cool/Ted/openwifi-hw/openwifi-hw/vivado.log
+# Journal file: /media/cool/Ted/openwifi-hw/openwifi-hw/vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jan 11 18:27:58 2022...
